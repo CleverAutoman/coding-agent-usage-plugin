@@ -1,0 +1,25 @@
+{
+  "name": "coding-agent-usage-plugin",
+  "version": "0.5.0",
+  "description": "A privacy-first native macOS menu bar monitor for local Codex token usage and activity trends.",
+  "author": {
+    "name": "CleverAutoman"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["codex", "macos", "menu-bar", "tokens", "analytics"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Usage Menubar",
+    "shortDescription": "Track local Codex tokens and usage trends.",
+    "longDescription": "Build, install, and diagnose a native macOS menu bar monitor that aggregates Codex token-count events locally without reading or uploading prompt content.",
+    "developerName": "CleverAutoman",
+    "category": "Productivity",
+    "capabilities": ["Local analytics", "macOS menu bar"],
+    "defaultPrompt": [
+      "Build and install my Codex usage menu bar app.",
+      "Check whether my Codex usage monitor is working.",
+      "Explain this week's Codex usage trend."
+    ],
+    "brandColor": "#111827"
+  }
+}
