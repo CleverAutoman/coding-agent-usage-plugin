@@ -1,6 +1,6 @@
 {
   "name": "coding-agent-usage-plugin",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A privacy-first native macOS menu bar monitor for local Codex token usage and activity trends.",
   "author": {
     "name": "CleverAutoman"

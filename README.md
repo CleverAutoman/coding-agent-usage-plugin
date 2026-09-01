@@ -53,7 +53,7 @@ curl -fsSL https://raw.githubusercontent.com/CleverAutoman/coding-agent-usage-pl
 
 ## Releases
 
-Pushing a tag such as `v0.5.0` runs tests on GitHub Actions, builds a universal signed app bundle, and publishes the ZIP plus its SHA-256 checksum as a GitHub Release.
+Pushing a tag such as `v0.5.1` runs tests on GitHub Actions, builds a universal signed app bundle, and publishes the ZIP plus its SHA-256 checksum as a GitHub Release.
 
 ## Notes
 
